@@ -387,17 +387,19 @@ open_to:
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=4&width=1000" width="80%"/>
 
-<br/><br/>
-
-<!-- CUSTOM GOLD ANIMATED FOOTER BANNER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=4&width=1000" width="80%"/>
-
-<br/><br/>
+<br/>
+<br/>
 
 Thank You for Visiting My Profile
 
 <i>Always open to meaningful conversations — about Flutter, AI-driven products, or the next great build.</i>
 
 <br/>
+
+<!-- CUSTOM GOLD ANIMATED FOOTER BANNER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=4&width=1000" width="80%"/>
+
+<br/>
+
 
 <a href="mailto:sheikabdulkadhar@example.com"><img src="https://img.shields.io/badge/Get_In_Touch-D4A017?style=for-the-badge&logo=gmail&logoColor=160D02" /></a> <a href="https://github.com/sheikabdulkadhar-githup"><img src="https://img.shields.io/badge/⭐_Support_My_Work-160D02?style=for-the-badge&labelColor=4A2C0B&color=D4A017" /></a>
 
