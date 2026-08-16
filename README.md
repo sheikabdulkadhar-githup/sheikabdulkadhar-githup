@@ -1,15 +1,14 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1B4B,50:4C1D95,75:7E22CE,100:C084FC&height=280&section=header&text=SHEIK%20ABDUL%20KADHAR%20N&fontSize=46&fontColor=F3E8FF&animation=twinkling&fontAlignY=35&desc=✦%20Flutter%20Developer%20%20·%20%20AI%2FML%20Integrator%20%20·%20%20Product%20Engineer%20✦&descAlignY=53&descSize=17&descColor=D8B4FE" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050811,25:0F172A,60:3B0764,100:6B21A8&height=280&section=header&text=SHEIK%20ABDUL%20KADHAR%20N&fontSize=52&fontColor=FFFFFF&animation=twinkling&fontAlignY=38&desc=✦%20Flutter%20Developer%20%20·%20%20AI%2FML%20Integrator%20%20·%20%20Product%20Engineer%20✦&descAlignY=58&descSize=18&descColor=F472B6" width="100%"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&width=1000" width="70%"/>
 
 <br/>
-
-<!-- DYNAMIC TYPING SVG -->
+<!-- DYNAMIC ANIMATED TYPING LETTERS -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Flutter+%E2%9C%B8+Dart+%E2%9C%B8+Firebase+%E2%9C%B8+GraphQL;Building+AI-Powered+Voice+Assistants;Crafting+Cross-Platform+Mobile+Experiences;Turning+Design+Into+Production-Ready+Code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2600&pause=800&color=F472B6&center=true&vCenter=true&width=750&lines=Flutter+%E2%9C%B8+Dart+%E2%9C%B8+Firebase+%E2%9C%B8+GraphQL;Building+AI-Powered+Voice+Assistants;Crafting+Cross-Platform+Mobile+Experiences;Turning+Design+Into+Production-Ready+Code" alt="Typing SVG" />
 </a>
 
 <br/><br/>
