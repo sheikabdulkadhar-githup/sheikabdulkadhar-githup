@@ -1,29 +1,35 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sheik%20Abdul%20Kadhar%20N&fontSize=42&fontColor=C3A6FF&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20AI%20%2F%20ML%20Integrator%20%7C%20Product%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0326,15:1B0742,35:3B0F70,55:6B21A8,75:9D3FDB,100:C77DFF&height=280&section=header&text=SHEIK%20ABDUL%20KADHAR%20N&fontSize=46&fontColor=F3E8FF&animation=twinkling&fontAlignY=35&desc=✦%20Flutter%20Developer%20%20·%20%20AI%2FML%20Integrator%20%20·%20%20Product%20Engineer%20✦&descAlignY=53&descSize=17&descColor=D8B4FE" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=3&width=1000" width="60%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Flutter+%7C+Dart+%7C+Firebase+%7C+GraphQL;AI+Voice+Assistant+Integrations;Cross-Platform+Mobile+Engineering;Building+Enterprise-Grade+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=680&lines=Flutter+%E2%9C%B8+Dart+%E2%9C%B8+Firebase+%E2%9C%B8+GraphQL;Building+AI-Powered+Voice+Assistants;Crafting+Cross-Platform+Mobile+Experiences;Turning+Design+Into+Production-Ready+Code" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Education](https://img.shields.io/badge/B.E.%20CSE-Anna%20University-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![CGPA](https://img.shields.io/badge/CGPA-7.8%2F10-6D28D9?style=flat-square)
-![Location](https://img.shields.io/badge/📍-Pudukkottai,_Tamil_Nadu,_India-4C1D95?style=flat-square)
-
-<br/>
-
-<a href="https://sheik-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sheikabdulkadhar11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sheikabdulkadhar-githup"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
+![Education](https://img.shields.io/badge/🎓_B.E._CSE-Anna_University-1B0742?style=for-the-badge&labelColor=6B21A8)
+![CGPA](https://img.shields.io/badge/CGPA-7.8%2F10-6B21A8?style=for-the-badge&labelColor=1B0742)
+![Location](https://img.shields.io/badge/📍_Pudukkottai-Tamil_Nadu,_India-1B0742?style=for-the-badge&labelColor=6B21A8)
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sheikabdulkadhar-githup&color=7c3aed&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/sheikabdulkadhar-githup?color=7c3aed&style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/sheikabdulkadhar-githup?color=7c3aed&style=flat-square&label=Stars)
+<a href="https://sheik-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/✦_Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=1B0742" /></a>
+<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9D3FDB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sheikabdulkadhar11@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sheikabdulkadhar-githup" target="_blank"><img src="https://img.shields.io/badge/GitHub-3B0F70?style=for-the-badge&logo=github&logoColor=C77DFF" /></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=sheikabdulkadhar-githup&color=9D3FDB&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sheikabdulkadhar-githup?color=9D3FDB&style=for-the-badge&label=FOLLOWERS&labelColor=1B0742)
+![Stars](https://img.shields.io/github/stars/sheikabdulkadhar-githup?color=9D3FDB&style=for-the-badge&label=STARS&labelColor=1B0742)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=3&width=1000" width="60%"/>
 
 </div>
 
@@ -72,6 +78,8 @@ Gold medalist — District-Level Carrom Tournament 🏅
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 🧬 Tech Stack
 
 **Languages**
@@ -88,6 +96,8 @@ Gold medalist — District-Level Carrom Tournament 🏅
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 🤖 AI / ML Expertise
 
 <div align="center">
@@ -95,13 +105,15 @@ Gold medalist — District-Level Carrom Tournament 🏅
 | Domain | Proficiency | Details |
 |---|:---:|---|
 | Voice AI (STT/TTS) | ⭐⭐⭐⭐☆ | Deepgram AI & Whisper AI integration for real-time speech pipelines |
-| Offline LLM Deployment | ⭐⭐⭐⭐☆ | Ollama + Gemma running fully online within a production mobile app |
+| Offline LLM Deployment | ⭐⭐⭐⭐☆ | Ollama + Gemma running fully offline within a production mobile app |
 | AI Agents | ⭐⭐⭐☆☆ | Function-calling agent workflows connected to app-level actions |
 | Context-Aware Systems | ⭐⭐⭐⭐☆ | Dual online/offline mode switching with seamless context handoff |
 
 </div>
 
 <br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
 
 ## 🚀 Featured Projects
 
@@ -192,6 +204,8 @@ Designed digitized soil analysis workflows for the civil engineering department,
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 💼 Experience
 
 **Junior Flutter Developer @ Nectar IT**
@@ -235,6 +249,8 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -248,13 +264,15 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 📜 Certifications
 
 **Adverk**
 ![App Development](https://img.shields.io/badge/App_Development_Course-6D28D9?style=flat-square)
 
 **NoviTech**
-![UIUX](https://img.shields.io/badge/UIUX_Master_Class-6D28D9?style=flat-square)
+![UIUX](https://img.shields.io/badge/UIUX_One_Master_Class-6D28D9?style=flat-square)
 ![Git](https://img.shields.io/badge/GIT_Boot_Camp-6D28D9?style=flat-square)
 ![API](https://img.shields.io/badge/Real--world_API_Boot_Camp-6D28D9?style=flat-square)
 
@@ -266,6 +284,8 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 ![React](https://img.shields.io/badge/React_Boot_Camp-A78BFA?style=flat-square)
 
 <br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
 
 ## 📊 GitHub Analytics
 
@@ -282,6 +302,8 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 🏅 GitHub Trophies
 
 <div align="center">
@@ -292,6 +314,8 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -301,6 +325,8 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 </div>
 
 <br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
 
 ## 🐍 Contribution Snake
 
@@ -313,6 +339,8 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 > ℹ️ The snake animation renders once the [`snk` GitHub Action](https://github.com/Platane/snk) is added to this repository's workflows.
 
 <br/>
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
 
 ## 🎯 Current Focus
 
@@ -334,12 +362,14 @@ open_to:
 
 <br/>
 
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+
 ## 🔗 Connect With Me
 
 <div align="center">
 
-<a href="mailto:sheikabdulkadhar11@gmail.com"><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/"><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sheikabdulkadhar11@gmail.com" ><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/" ><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sheikabdulkadhar-githup"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://sheik-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
@@ -349,8 +379,14 @@ open_to:
 
 <div align="center">
 
-*"Building software isn't about writing code — it's about crafting experiences that quietly make people's lives easier."*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<br/><br/>
+
+<i>✦ "Building software isn't about writing code — it's about crafting experiences<br/>that quietly make people's lives easier." ✦</i>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0326,25:1B0742,50:3B0F70,75:6B21A8,100:9D3FDB&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
