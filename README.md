@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- TOP HEADER BANNER (CUSTOM GOLD BANNER SVG) -->
-<img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/main/banner_gold.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/main/banner_gold.svg" width="100%" alt="Sheik Abdul Kadhar N — animated gold banner"/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=3&width=1000" width="70%"/>
 
@@ -397,6 +397,6 @@ open_to:
 <br/><br/>
 
 <!-- BOTTOM FOOTER BANNER (CUSTOM GOLD BANNER SVG) -->
-<img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/main/banner_gold.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/main/banner_gold.svg" width="100%" alt="Sheik Abdul Kadhar N — animated gold banner footer"/>
 
 </div>
