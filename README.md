@@ -396,7 +396,23 @@ open_to:
 
 <br/><br/>
 
-<!-- BOTTOM FOOTER BANNER (CUSTOM GOLD BANNER SVG) -->
-<img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/main/banner_gold.svg" width="100%" alt="Sheik Abdul Kadhar N — animated gold banner footer"/>
+<!-- CUSTOM GOLD ANIMATED FOOTER BANNER --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=4&width=1000" width="80%"/>
 
+<br/><br/>
+
+🙏 Thanks for stopping by!
+
+<i>If something here caught your eye — a project, an idea, or just the vibe — I'd love to hear from you.</i>
+
+<br/>
+
+<a href="mailto:sheikabdulkadhar@example.com"><img src="https://img.shields.io/badge/Let's_Talk-D4A017?style=for-the-badge&logo=gmail&logoColor=160D02" /></a> <a href="https://github.com/sheikabdulkadhar-githup"><img src="https://img.shields.io/badge/⭐_Star_a_Repo-160D02?style=for-the-badge&labelColor=4A2C0B&color=D4A017" /></a>
+
+<br/><br/>
+
+<!-- BOTTOM TYPING SVG LETTER ANIMATION MATCHING BANNER_GOLD COLOR --> <a href="https://sheik-portfolio.com"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=750&lines=Thanks+for+scrolling+this+far+%E2%9C%B8;Always+building%2C+always+learning+%F0%9F%9A%80;Let's+create+something+great+together!" alt="Bottom Typing SVG" /> </a>
+
+<br/><br/>
+
+<!-- BOTTOM FOOTER BANNER (CUSTOM GOLD BANNER SVG) --> <img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/main/banner_gold.svg" width="100%" alt="Sheik Abdul Kadhar N — animated gold banner footer"/> </div>
 </div>
