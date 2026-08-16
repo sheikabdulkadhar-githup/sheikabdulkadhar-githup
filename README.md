@@ -370,7 +370,7 @@ open_to:
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=2&width=1000" width="50%"/></div>
 
 ## 🔗 Connect With Me
-
+<br/>
 <div align="center">
 
 <a href="mailto:sheikabdulkadhar11@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -380,14 +380,13 @@ open_to:
 
 </div>
 
-<br/><br/>
+<br/>
 
 <!-- CUSTOM GOLD ANIMATED FOOTER BANNER -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=4&width=1000" width="80%"/>
 
-<br/>
 <br/>
 
 Thank You for Visiting My Profile
@@ -405,12 +404,10 @@ Thank You for Visiting My Profile
 
 <br/>
 
-<a href="https://sheik-portfolio.web.app/"> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=750&lines=Engineering+with+precision%2C+designing+with+intent;Open+to+Flutter+%26+AI%2FML+Opportunities;Let+us+build+something+exceptional+together" alt="Bottom Typing SVG" /> </a>
-
-<br/>
 <a href="https://sheik-portfolio.com">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=22&duration=3000&pause=1000&color=D4A017&center=true&vCenter=true&width=750&lines=Thank+you+for+visiting!+%E2%9C%B8;Let's+connect+and+build+amazing+products+together!;Open+for+Flutter+%26+AI%2FML+Opportunities!%F0%9F%9A%80" alt="Bottom Typing SVG" />
 </a>
+<br/>
 <br/>
 
 <img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/main/banner_gold.svg" width="100%" alt="Sheik Abdul Kadhar N — animated gold banner footer"/> </div>
