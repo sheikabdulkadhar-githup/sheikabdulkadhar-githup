@@ -388,7 +388,7 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:160D02,50:D4A017,100:160D02&height=4&width=1000" width="80%"/>
 
 <br/>
-
+<br/>
 Thank You for Visiting My Profile
 
 <i>Always open to meaningful conversations — about Flutter, AI-driven products, or the next great build.</i>
