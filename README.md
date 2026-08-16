@@ -1,35 +1,42 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0326,15:1B0742,35:3B0F70,55:6B21A8,75:9D3FDB,100:C77DFF&height=280&section=header&text=SHEIK%20ABDUL%20KADHAR%20N&fontSize=46&fontColor=F3E8FF&animation=twinkling&fontAlignY=35&desc=✦%20Flutter%20Developer%20%20·%20%20AI%2FML%20Integrator%20%20·%20%20Product%20Engineer%20✦&descAlignY=53&descSize=17&descColor=D8B4FE" width="100%"/>
+<!-- HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1B4B,50:4C1D95,75:7E22CE,100:C084FC&height=280&section=header&text=SHEIK%20ABDUL%20KADHAR%20N&fontSize=46&fontColor=F3E8FF&animation=twinkling&fontAlignY=35&desc=✦%20Flutter%20Developer%20%20·%20%20AI%2FML%20Integrator%20%20·%20%20Product%20Engineer%20✦&descAlignY=53&descSize=17&descColor=D8B4FE" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=3&width=1000" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&width=1000" width="70%"/>
 
+<br/>
+
+<!-- DYNAMIC TYPING SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=23&duration=2800&pause=900&color=C77DFF&center=true&vCenter=true&width=680&lines=Flutter+%E2%9C%B8+Dart+%E2%9C%B8+Firebase+%E2%9C%B8+GraphQL;Building+AI-Powered+Voice+Assistants;Crafting+Cross-Platform+Mobile+Experiences;Turning+Design+Into+Production-Ready+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2800&pause=900&color=C084FC&center=true&vCenter=true&width=700&lines=Flutter+%E2%9C%B8+Dart+%E2%9C%B8+Firebase+%E2%9C%B8+GraphQL;Building+AI-Powered+Voice+Assistants;Crafting+Cross-Platform+Mobile+Experiences;Turning+Design+Into+Production-Ready+Code" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
-![Education](https://img.shields.io/badge/🎓_B.E._CSE-Anna_University-1B0742?style=for-the-badge&labelColor=6B21A8)
-![CGPA](https://img.shields.io/badge/CGPA-7.8%2F10-6B21A8?style=for-the-badge&labelColor=1B0742)
-![Location](https://img.shields.io/badge/📍_Pudukkottai-Tamil_Nadu,_India-1B0742?style=for-the-badge&labelColor=6B21A8)
+<!-- BADGES & QUICK INFO -->
+![Education](https://img.shields.io/badge/🎓_B.E._CSE-Anna_University-0D1117?style=for-the-badge&labelColor=581C87&color=C084FC)
+![CGPA](https://img.shields.io/badge/CGPA-7.8%2F10-0D1117?style=for-the-badge&labelColor=6B21A8&color=C084FC)
+![Location](https://img.shields.io/badge/📍_Pudukkottai-Tamil_Nadu,_India-0D1117?style=for-the-badge&labelColor=581C87&color=C084FC)
 
 <br/><br/>
 
-<a href="https://sheik-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/✦_Portfolio-C77DFF?style=for-the-badge&logo=vercel&logoColor=1B0742" /></a>
-<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-9D3FDB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:sheikabdulkadhar11@gmail.com"  target="_blank"><img src="https://img.shields.io/badge/Email-6B21A8?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/sheikabdulkadhar-githup" target="_blank"><img src="https://img.shields.io/badge/GitHub-3B0F70?style=for-the-badge&logo=github&logoColor=C77DFF" /></a>
+<!-- CONNECT BUTTONS -->
+<a href="https://sheik-portfolio.web.app/" target="_blank"><img src="https://img.shields.io/badge/✦_Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/"  target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sheikabdulkadhar11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/sheikabdulkadhar-githup" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=C084FC" /></a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sheikabdulkadhar-githup&color=9D3FDB&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/sheikabdulkadhar-githup?color=9D3FDB&style=for-the-badge&label=FOLLOWERS&labelColor=1B0742)
-![Stars](https://img.shields.io/github/stars/sheikabdulkadhar-githup?color=9D3FDB&style=for-the-badge&label=STARS&labelColor=1B0742)
+<!-- GITHUB COUNTERS -->
+![Profile Views](https://komarev.com/ghpvc/?username=sheikabdulkadhar-githup&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/sheikabdulkadhar-githup?color=a855f7&style=for-the-badge&label=FOLLOWERS&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/sheikabdulkadhar-githup?color=a855f7&style=for-the-badge&label=STARS&labelColor=0d1117)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=3&width=1000" width="60%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=3&width=1000" width="70%"/>
 
 </div>
 
@@ -54,22 +61,22 @@ mindset: "Building scalable software that delivers meaningful value to real user
 <tr>
 <td valign="top" width="50%">
 
-**🔭 Currently Building**
+### 🔭 Currently Building
 Enterprise Flutter apps for building management & asset tracking (UAE clients), with dual online/offline AI voice assistant modes.
 
-**🌱 Strengthening**
+### 🌱 Strengthening
 Mobile application architecture, DSA, and Generative AI agent workflows with function calling.
 
 </td>
 <td valign="top" width="50%">
 
-**💡 Open To**
+### 💡 Open To
 - Flutter / Mobile Engineering roles
 - AI-integrated product engineering
 - Full-stack collaboration & open-source
 - Internship-to-full-time growth paths
 
-**⚡ Fun Fact**
+### ⚡ Fun Fact
 Gold medalist — District-Level Carrom Tournament 🏅
 
 </td>
@@ -78,7 +85,7 @@ Gold medalist — District-Level Carrom Tournament 🏅
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🧬 Tech Stack
 
@@ -96,7 +103,7 @@ Gold medalist — District-Level Carrom Tournament 🏅
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🤖 AI / ML Expertise
 
@@ -113,7 +120,7 @@ Gold medalist — District-Level Carrom Tournament 🏅
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🚀 Featured Projects
 
@@ -204,7 +211,7 @@ Designed digitized soil analysis workflows for the civil engineering department,
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 💼 Experience
 
@@ -249,7 +256,7 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🏆 Achievements
 
@@ -264,7 +271,7 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 📜 Certifications
 
@@ -285,62 +292,60 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sheikabdulkadhar-githup&show_icons=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=sheikabdulkadhar-githup&hide_border=true&theme=radical&background=0d1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheikabdulkadhar-githup&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=A78BFA&text_color=c9d1d9" />
+<img height="185" src="https://github-stats-alpha.vercel.app/api?username=sheikabdulkadhar-githup&theme=dracula&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E2E8F0&icon_color=A855F7&border_color=381E72" alt="GitHub Stats" />
+<img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sheikabdulkadhar-githup&theme=dracula" alt="Profile Summary Stats" />
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🏅 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sheikabdulkadhar-githup&theme=radical&no-frame=true&margin-w=10&row=1&column=6" />
+<img src="https://github-trophies.vercel.app/?username=sheikabdulkadhar-githup&theme=dracula" alt="GitHub Trophies" />
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikabdulkadhar-githup&theme=react-dark&hide_border=true&bg_color=0d1117&color=A78BFA&line=8B5CF6&point=C3A6FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikabdulkadhar-githup&theme=react-dark&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<a href="https://github.com/sheikabdulkadhar-githup">
+  <img src="https://raw.githubusercontent.com/sheikabdulkadhar-githup/sheikabdulkadhar-githup/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake Grid Animation" />
+</a>
 
 </div>
 
-> ℹ️ The snake animation renders once the [`snk` GitHub Action](https://github.com/Platane/snk) is added to this repository's workflows.
+> ℹ️ *Note: The snake grid animation updates automatically once the `snk` GitHub Action workflow is run in your repository.*
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🎯 Current Focus
 
@@ -362,16 +367,16 @@ open_to:
 
 <br/>
 
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/></div>
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/></div>
 
 ## 🔗 Connect With Me
 
 <div align="center">
 
-<a href="mailto:sheikabdulkadhar11@gmail.com" ><img src="https://img.shields.io/badge/Gmail-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/" ><img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/sheikabdulkadhar-githup"><img src="https://img.shields.io/badge/GitHub-A78BFA?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://sheik-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:sheikabdulkadhar11@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sheik-abdul-kadhar-529b85282/" ><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/sheikabdulkadhar-githup"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=C084FC" /></a>
+<a href="https://sheik-portfolio.web.app/"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
@@ -379,7 +384,7 @@ open_to:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,13,14,15,20&height=2&width=1000" width="45%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:A855F7,100:0D1117&height=2&width=1000" width="50%"/>
 
 <br/><br/>
 
@@ -387,6 +392,6 @@ open_to:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0326,25:1B0742,50:3B0F70,75:6B21A8,100:9D3FDB&height=150&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,25:1E1B4B,50:4C1D95,75:7E22CE,100:C084FC&height=150&section=footer&animation=twinkling" width="100%"/>
 
 </div>
