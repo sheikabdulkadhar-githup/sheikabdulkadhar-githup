@@ -7,6 +7,7 @@
 
 <br/>
 
+
 <!-- DYNAMIC ANIMATED TYPING LETTERS (WARM GOLD PORTFOLIO ACCENT) -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=2600&pause=800&color=E6C594&center=true&vCenter=true&width=750&lines=Flutter+%E2%9C%B8+Dart+%E2%9C%B8+Firebase+%E2%9C%B8+GraphQL;Building+AI-Powered+Voice+Assistants;Crafting+Cross-Platform+Mobile+Experiences;Turning+Design+Into+Production-Ready+Code" alt="Typing SVG" />
