@@ -374,7 +374,7 @@ open_to:
 <div align="center">
 
 <a href="mailto:sheikabdulkadhar11@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://https://linkedin.com/in/sheik-abdul-kadhar-529b85282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sheik-abdul-kadhar-529b85282"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/sheikabdulkadhar-githup"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=D4A017" /></a>
 <a href="https://sheik-portfolio.web.app/"><img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-D4A017?style=for-the-badge&logo=googlechrome&logoColor=160D02" /></a>
 
