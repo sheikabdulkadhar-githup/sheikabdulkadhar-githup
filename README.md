@@ -323,7 +323,9 @@ Gained hands-on experience in Dart programming, widget design, and cross-platfor
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sheikabdulkadhar-githup&theme=react-dark&bg_color=160D02&color=D4A017&line=FFD700&point=FFFFFF&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://ghchart.rshah.org/D4A017/sheikabdulkadhar-githup" width="100%" alt="Sheik Abdul Kadhar's GitHub Contribution Graph" />
+<br/><br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sheikabdulkadhar-githup&theme=dracula" width="100%" alt="Contribution Activity Details" />
 
 </div>
 
